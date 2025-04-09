@@ -1,3 +1,6 @@
-***Summary:***
+Confirmed successful operation and use of key site functionalities on Sauce Demo site:
 
-Confirmed successful login to the Sauce Demo website and use of key site functionalities, including adding items to the cart and completing a purchase.
+- attempting a loggin with incorrect credentials
+- logging in with correct credentials
+- adding items to the cart
+- completing a purchase
