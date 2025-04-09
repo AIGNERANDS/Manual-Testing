@@ -1,6 +1,6 @@
-Confirmed successful operation and use of key site functionalities on Sauce Demo site:
+***Confirmed successful operation and use of key functionalities on Sauce Demo site:***
 
-- attempting a loggin with incorrect credentials
-- logging in with correct credentials
-- adding items to the cart
-- completing a purchase
+- attempted login with incorrect credentials
+- login in with correct credentials
+- added items to the cart
+- completed a purchase
