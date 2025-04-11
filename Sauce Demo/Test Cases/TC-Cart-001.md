@@ -13,10 +13,10 @@
 2. Click the shopping cart icon.
 
 **Test Data:**  
-- Product: Sauce Labs Backpack
+Product: Sauce Labs Backpack
 
 **Expected Result:**  
-- Product appears in the cart with correct name, quantity, and price.
+Product appears in the cart with correct name, quantity, and price.
 
 **Priority:**  
 High
