@@ -17,9 +17,7 @@ Click the Login button.
 
 **Test Data:**
 
-**Username:** debasic_debugger
-
-**Password:** secret_sauce
+**Username:** debasic_debugger  **Password:** secret_sauce
 
 **Expected Result:**
 
