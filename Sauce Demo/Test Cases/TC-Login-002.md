@@ -13,8 +13,8 @@ User is on the Sauce Demo login page.
 3. Click the **Login** button.
 
 **Test Data:**  
-- Username: `standard_user`
-- Password: `secret_sauce`
+Username: `standard_user`
+Password: `secret_sauce`
 
 **Expected Result:**  
 User is redirected to the Products page, and the page displays a list of items.
