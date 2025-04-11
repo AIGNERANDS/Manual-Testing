@@ -70,3 +70,6 @@ The selected item is removed from the cart, and the cart is updated.
 **Expected Result:** Checkout is completed successfully.  
 **Actual Result:** Checkout was completed successfully.  
 **Status:** Pass
+
+## Defects
+No bugs found. No defects were identified during testing.
