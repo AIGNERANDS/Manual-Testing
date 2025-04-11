@@ -9,15 +9,15 @@ User is on the Sauce Demo login page.
 
 **Test Steps:**
 
-Entered an invalid username (e.g., debasic_debugger) into the Username field.
+Entered an invalid username (e.g., `wrong_user`) into the Username field.
 
-Entered a valid password (e.g., secret_sauce) into the Password field.
+Entered a valid password (e.g., `secret_sauce`) into the Password field.
 
 Click the Login button.
 
 **Test Data:**
 
-**Username:** debasic_debugger  **Password:** secret_sauce
+**Username:** `debasic_debugger`  **Password:** `secret_sauce`
 
 **Expected Result:**
 
