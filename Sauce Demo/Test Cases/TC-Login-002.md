@@ -1,6 +1,6 @@
 ## Test Case: Successful Login
 
-**Test Case ID:** TC-002
+**Test Case ID:** TC-Login-002
 
 **Title:** Verify user can log in with valid credentials
 
