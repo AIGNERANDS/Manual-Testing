@@ -1,6 +1,6 @@
 ## Test Case: Add Item to Cart
 
-**Test Case ID:** TC-003  
+**Test Case ID:** TC-Cart-001
 
 **Title:** Verify user can add an item to the shopping cart  
 
