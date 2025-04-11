@@ -15,8 +15,9 @@
 **Test Scenario:** Verify login with incorrect credentials  
 **Preconditions:** User is on the login page  
 **Test Steps:**  
-Enter invalid username and password.  
-Click the "Login" button.  
+- Enter invalid username and password.  
+- Click the "Login" button.
+
 **Expected Result:** An error message should be displayed.  
 **Actual Result:** Error message was displayed.  
 **Status:** Pass
@@ -32,48 +33,40 @@ Click the "Login" button.
 **Status:** Pass
 
 ### Test Case ID: TC_Cart_001
-Test Scenario: Add items to cart
-Preconditions: User is logged in
-Test Steps:
+**Test Scenario:** Add items to cart
+**Preconditions:** User is logged in
+**Test Steps:**
+- Select multiple items.
+- Click "Add to Cart" for each item.
 
-Select multiple items.
-
-Click "Add to Cart" for each item.
-Expected Result: Items are added to the shopping cart.
-Actual Result: Items were successfully added to the cart.
-Status: Pass
+**Expected Result:** Items are added to the shopping cart.  
+**Actual Result:** Items were successfully added to the cart.  
+**Status:** Pass
 
 ### Test Case ID: TC_Cart_002
-Test Scenario: Remove items from the shopping cart
-Preconditions:
+**Test Scenario:** Remove items from the shopping cart
+**Preconditions:**  
+User is logged in.  
+Items are already added to the cart.  
+**Test Steps:**
+- Navigate to the shopping cart.
+- Click "Remove" next to an item.
 
-User is logged in.
-
-Items are already added to the cart.
-
-Test Steps:
-
-Navigate to the shopping cart.
-
-Click "Remove" next to an item.
-
-Expected Result:
-The selected item is removed from the cart, and the cart is updated.
-
-Actual Result:
-Item was successfully removed from the cart, and the cart updated correctly.
-
-Status: Pass
+**Expected Result:**
+The selected item is removed from the cart, and the cart is updated.  
+**Actual Result:**  Item was successfully removed from the cart, and the cart updated correctly.  
+**Status:** Pass
 
 
 ### Test Case ID: TC_Checkout_001
-Test Scenario: Complete checkout process  
-Preconditions: Items are added to the cart  
-Test Steps:  
-Click the cart icon.  
-Proceed to checkout.  
-Enter user information.  
-Complete the purchase.  
-Expected Result: Checkout is completed successfully.  
-Actual Result: Checkout was completed successfully.  
-Status: Pass
+**Test Scenario:** Complete checkout process  
+**Preconditions:** Items are added to the cart  
+**Test Steps:**  
+- Click the cart icon.  
+- Proceed to checkout.  
+- Enter user information.  
+- Complete the purchase.
+
+**Expected Result:** Checkout is completed successfully.  
+**Actual Result:** Checkout was completed successfully.  
+**Status:** Pass
