@@ -1,6 +1,6 @@
 ***Confirmed successful operation and use of key functionalities on Sauce Demo site:***
 
 - attempted login with incorrect credentials
-- login in with correct credentials
+- logged in in with correct credentials
 - added items to the cart
 - completed a purchase
